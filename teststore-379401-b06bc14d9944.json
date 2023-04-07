@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teststore-379401",
+  "private_key_id": "b06bc14d99443e2f4c086afeb1eb48dcd76388ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAtliAabyWNr/r\nmA/DeLZE2wITQR/3OTRRekKpATAXSVGz8t04/FBlwYyioxSaJOjp67P/i4eGWbkY\nvYBP4XcR7w+P/D8EyLCX9C/p2uqBflLkSjfd/W0dkD5xxJWBk2VMsu/xAMggEz7A\n2DiQGfiZx6wJ6Tj9Z5is+TLlsp1N5gOHcSEbYXJc8xbEx9ekr40GhTbFjXbO02B1\nQ1sAysnKRHStzRMeqjScfxbYVQp1yl82Ag1ghe8MdWAiVUKLylWFEF3qFt07sBXY\nEO5Rvitd2KYXN4cYLIr6SgDQfsJaK2u64kVE7pDh9BHcVtgoPAQQsfQDFcYithRF\nWNMPvUL1AgMBAAECggEAHWm3XaIbI9zSCLtPbJ4384/EY/vvTQ8banQmnco4n3/p\nSyB+SKb5/mM+0R6Nk8PzvgA48NVIUhElAcmqk9vtuHxW+7rxmLao0rMfvP7/W9RU\nAn6cGEhd0cKk7+hOiVWzLbRXOt7LrK7t8lu4sQXFvnLjUdVEMCkSUb7sgx0dNTjp\n47QEbz9uuTDtBnRb8rrxpB/q5Yd7dgf4xaqXDFj3A8qniN+h5PDw2mZpLpruj68T\nptaYtnS+hRtif8UTf0Y4HHuSnRh9ewFUyqdWu7bvmACztiuoK0/7YSg/48h7fxA+\ns76p7h3CntGN3zBktl67SMu5OtYP7sdA8ZWzZUr64QKBgQD3c4Jbl/JWoTWuudNs\nuQlIDR4iSDvjdqPx70duZKRuPEXCbOiFQLfPDw961eqng+4W6AoQz/kO6drYQdcw\nb7AQwuOVcQprmv/sHswd+ekmHSqqgFv7dCbj0Ais6pnDJIFk6XRcL+LnNk5YsYA7\nuyARuQYFoQZ9aNHP8QVN0IeCYwKBgQDHXrflcDm4wdKtZiri/ixVg6JYQeGw5DYm\nlOmmReIo3F6jAxS8KKy0BV4LzvzIouOi2vsRupaTcdwPM35UEB198ya7a5esTNdX\nwfeW3jRqWxWOoBZZkp1nHmxvGB2pXVt2KmysWvCeFmro2p9dzkZsUIfpkwMQo3Vw\nQoxP7734xwKBgH6nWKmY9CjzCo8L/fNAIkgGrs3NOxoJt5A1cNJIIQFrSCljpP/P\nSEVq5/lvVFO5azu+OKiySkAf4iueR447HFr35ZSv7y10gFlSyhbtuzAO7a+nU204\n3k7sRAR9b4Y6QSBtfWlR+UluulsbPw9Tj+6CTVrEOJYn+Hv+WUCi4zkRAoGBAKRz\n6gcVAlf3cTvdGaUx+gnz0fcxKOSL6mr6zJx96qa/2ERopzLp7kN0ZfYhn/wz+Md+\nEDm4irpG4jmbxSm8PUeGST2x62OR4tOdyQgmdGACkA6c2LK8MKA9xT4CS31H58ja\nB9hID1CntzoqE+kB3K894k52GMIhwx59llXdsPtDAoGAKPpFjyNFuFuJxcRsjPrN\nJgChWOqsgnlhCat+iEkPNp07VLU+JhRlz9cfmK6+tfjwVqW65m8ZvHfPUI/ycY36\nM77vvGhrU2g5sUdcYBgpR6wH3tMkVe0kfz4jUrfl1m0GK919ENggn/YcghMofhf2\nxa9b7WQPOqnOTN/NmMJ25n4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "svpsports@teststore-379401.iam.gserviceaccount.com",
+  "client_id": "103730456558537397087",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svpsports%40teststore-379401.iam.gserviceaccount.com"
+}
